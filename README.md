@@ -14,7 +14,7 @@ State Key Laboratory of Multimodal Artificial Intelligence Systems, Chinese Acad
 [![download](https://img.shields.io/github/downloads/chencn2020/GMC-IQA/total.svg)](https://github.com/chencn2020/GMC-IQA/releases)
 [![Open issue](https://img.shields.io/github/issues/chencn2020/GMC-IQA)](https://github.com/chencn2020/GMC-IQA/issues)
 [![Closed issue](https://img.shields.io/github/issues-closed/chencn2020/GMC-IQA)](https://github.com/chencn2020/GMC-IQA/issues)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=chencn2020/GMC-IQA)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=chencn2020.GMC-IQA)
 [![GitHub Stars](https://img.shields.io/github/stars/chencn2020/GMC-IQA?style=social)](https://github.com/chencn2020/GMC-IQA)
 
 [Online Demo](https://huggingface.co/spaces/Zevin2023/GMC-IQA)
