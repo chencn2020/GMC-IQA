@@ -7,7 +7,7 @@ State Key Laboratory of Multimodal Artificial Intelligence Systems, Chinese Acad
 
 :rocket:  :rocket: :rocket: **News:**
 - To be updated...
-- ✅ **January. 19, 2024**: We added an [online demo](https://huggingface.co/spaces/Zevin2023/GMC-IQA) on huggingface.
+- ✅ **January. 18, 2024**: We added an [online demo](https://huggingface.co/spaces/Zevin2023/GMC-IQA) on huggingface.
 - ✅ **January. 18, 2024**: We created this repository.
 
 [![paper](https://img.shields.io/badge/arXiv-Paper-green.svg)]()
